@@ -5,7 +5,7 @@ Requirements:
 - NumPy 1.18+
 - Matplotlib (optional, only needed for display) - 3.0+
 
-## Environment Reference
+## Environment Reference  File
 
 ```
 Chevalier-Boisvert, Maxime, Lucas Willems, and Suman Pal. "Minimalistic gridworld environment for openai gym." (2018): 13-20.
